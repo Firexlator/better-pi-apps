@@ -46,7 +46,7 @@ Pi-Apps now serves **over 1,000,000 people** and hosts [over 200 apps](https://g
 ## Install Pi-Apps
 Open a terminal and run this command:
 ```bash
-wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
+wget -qO- https://raw.githubusercontent.com/Fire | bash
 ```
 <img src="icons/screenshots/main%20window.png?raw=true" align="right" height="270px"/>
 
